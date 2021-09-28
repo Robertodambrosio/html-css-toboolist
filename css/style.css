@@ -61,7 +61,7 @@ header {
     color: rgb(209, 209, 209);
 }
 
-.third-title{
+.third-title {
     margin-top: 20px;
 }
 
@@ -77,7 +77,7 @@ header {
     line-height: 30px;
 }
 
-.list li{
+.list li {
     margin: 15px 0;
 }
 
@@ -129,3 +129,5 @@ header {
 .yellow {
     background-color: yellow;
 }
+
+/* fine main  */
