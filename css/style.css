@@ -8,16 +8,25 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container-mid {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    padding: 20px 40px;
+}
+
 /* ========header========  */
 
 header {
     height: 100px;
     background-color: white;
+    margin-bottom: 50px;
 }
 
 #logo {
-    height: 70px;
-    margin: 10px;
+    height: 60px;
+    margin: 20px 10px;
     vertical-align: middle;
 }
 
@@ -25,7 +34,29 @@ header {
     font-weight: bold;
     display: inline-block;
     vertical-align: middle;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 /* ========main======== */
+
+.secondcontainer {
+    border-radius: 0px 0px 5px 5px;
+    margin-top: 2px;
+}
+
+.btn {
+    border: 1px solid rgb(22, 198, 230);
+    padding: 5px 10px;
+    border-radius: 5%;
+    background-color: rgb(22, 198, 230);
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.off {
+    border: 1px solid rgb(209, 209, 209);
+    background-color: white;
+    color: rgb(209, 209, 209);
+}
+
