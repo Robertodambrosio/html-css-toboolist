@@ -42,6 +42,7 @@ header {
 .secondcontainer {
     border-radius: 0px 0px 5px 5px;
     margin-top: 2px;
+    margin-bottom: 20px;
 }
 
 .btn {
@@ -60,3 +61,71 @@ header {
     color: rgb(209, 209, 209);
 }
 
+.third-title{
+    margin-top: 20px;
+}
+
+.title {
+    padding-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.list {
+    list-style: none;
+    line-height: 30px;
+}
+
+.list li{
+    margin: 15px 0;
+}
+
+.checktrue {
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 1px 3px;
+    color: green;
+}
+
+.checkfalse {
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 1px 3px;
+    color: red
+}
+
+.checklist {
+    border-radius: 15%;
+    padding: 6px 8px;
+    font-size: 10px;
+    color: white;
+    vertical-align: middle;
+    margin-left: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.blue {
+    background-color: rgb(22, 198, 230);
+}
+
+.purple {
+    background-color: violet;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.yellow {
+    background-color: yellow;
+}
